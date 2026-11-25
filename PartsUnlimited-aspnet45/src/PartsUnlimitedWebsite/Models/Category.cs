@@ -17,3 +17,4 @@ namespace PartsUnlimited.Models
         public List<Product> Products { get; set; }
     }
 }
+// Lab 1: changement de Category
