@@ -19,3 +19,4 @@ namespace PartsUnlimited.Models
         public virtual Product Product { get; set; }
     }
 }
+// Lab 1: premier commit
